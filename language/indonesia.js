@@ -1,11 +1,8 @@
 exports.noToken = "Bot token tidak boleh kosong, silahkan buat bot melalui https://t.me/BotFather"
 
 exports.first_chat = (botname, pushname) => {
-    return `Halo ${pushname}! Nama saya ${botname} - Saya adalah Bot Telegram multi fungsi! Klik /menu untuk mengetahui lebih lanjut tentang cara menggunakan bot ini.
-
-Bergabunglah dengan [channel saya](https://t.me/zeeone_ofc) untuk mendapatkan informasi tentang semua pembaruan terbaru.
-
-Kirim perintah /privacy untuk melihat syarat dan ketentuan penggunaan bot.
+    return `Halo ${pushname}! Nama saya ${botname} - Saya adalah Bot Telegram multi fungsi! Klik menu dibawah untuk topup game kamu, ready smua jenis game loch!!!
+harga murah dan 100% terpercaya, topup gak pakai lama 1 detik langsung masuk buruan topup di KGTOPUP sekarang juga
 `
 }
 exports.snk = "Syarat & Ketentuan Bot\n\n1. isi sendiri"
